@@ -25,10 +25,10 @@ In This Repository, We Will Learn
 
 ## Folder Structure
 
-- **day02_Superposition_and_ShannonEntrophy.ipynb**  
+ **1. `day02_Superposition_and_ShannonEntrophy.ipynb `**  
   This Jupyter Notebook contains the **practical implementation** and demonstrations of the concepts discussed in the theory notes. It may include simulations, numerical examples, and visualizations to build intuition and practical understanding.
 
-- **day02_notes.md**  
+ **2. ` day02_notes.md `**  
   This file contains **detailed theoretical notes** with deep explanations, mathematical formulations, and conceptual discussions designed for structured learning and revision of Superposition and Shannon Entrophy.
 
 ---
