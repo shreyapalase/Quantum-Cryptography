@@ -20,11 +20,11 @@ In this folder , we will learn :
 
 ## Folder Structure
 
-- **day03_Qubit_As_CryptoSymbol.ipynb**  
+- **1. `day03_Qubit_As_CryptoSymbol.ipynb`**  
   This Jupyter Notebook contains the **practical implementation** and demonstrations of the **Qubit as Cryptographic Symbol** discussed in the theory notes.
   It may include  numerical examples, and visualizations to build intuition and practical understanding.
 
-- **day03_notes.md**  
+- **2. `day03_notes.md`**  
   This file contains **detailed theoretical notes** with deep explanations, mathematical formulations,
   and conceptual discussions designed for structured learning and revision of orthogonal,non orthogonal state ,visalization of confusion matrix.
 
