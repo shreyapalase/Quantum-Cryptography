@@ -22,11 +22,11 @@ In this folder, we will learn:
 
 ## Folder Structure
 
-- **day05_BB84_Protocol.ipynb**  
+ **1. `day05_BB84_Protocol.ipynb`**  
   This Jupyter Notebook contains the **practical implementation** and demonstrations of the **BB84** discussed in the theory notes.
   It may include  numerical examples, and visualizations to build intuition and practical understanding.
 
-- **day05_notes.md**  
+  **2. `day05_notes.md`**  
   This file contains **Description of BB84 Protocol** with deep explanations, mathematical formulations,
   and conceptual discussions designed for structured learning and overview of BB84 Protocol.
 
