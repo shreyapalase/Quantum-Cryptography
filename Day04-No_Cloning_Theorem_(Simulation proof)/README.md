@@ -21,11 +21,11 @@ In this folder, we will learn:
 
 ## Folder Structure
 
-- **day04_No_Cloning_Theorem.ipynb**  
+- **1. `day04_No_Cloning_Theorem.ipynb`**  
   This Jupyter Notebook contains the **practical implementation** and demonstrations of the **No-Cloning Theorem** discussed in the theory notes.
   It may include  numerical examples, and visualizations to build intuition and practical understanding.
 
-- **day04_notes.md**  
+- **2. `day04_notes.md`**  
   This file contains **No-Cloning Theorem** with deep explanations, mathematical formulations,
   and conceptual discussions designed for structured learning and revision of orthogonal,non orthogonal state ,visalization of confusion matrix.
 
