@@ -9,11 +9,12 @@ This folder contains learning materials and practical implementations focusing o
 ---
 
 In this folder, we will learn:
-- How BB84 Key Distribution works
-- How Eve perform an intercept-resend attack.
-- How Quantum Bit Error Rate(QBER) is calculated.
-- Difference between **no eve** and **eve present** scenerios
-- Why error rate increase when evesdropping occures.
+- How the **BB84 QKD protocol works**
+- How to simulate BB84 using **AerSimulator**
+- Hoe to **inject depolarizing noise** into quantum channel.
+- How measure the **Quantum Bit Error Rate(QBER)** and **Key Survival Rate**
+- How noise affect the security anf reliability of QKD
+- Hoe to visualize **Noise affects the security anf key survival rate** using plots.
   
 ---
 
@@ -21,7 +22,7 @@ In this folder, we will learn:
 ## Folder Structure
 
  **1. `day07_BB84_with_Noise.ipynb`**  
-  This Jupyter Notebook contains the **practical implementation** and demonstrations of the **BB84 with Noise ** discussed in the theory notes.
+  This Jupyter Notebook contains the **practical implementation** and demonstrations of the **BB84 with Noise** discussed in the theory notes.
   It may include  numerical examples, and visualizations to build intuition and practical understanding BB84 with depolarizing noise madel
 
   **2. `day07_notes.md`**  
