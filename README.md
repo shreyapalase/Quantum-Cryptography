@@ -1,4 +1,10 @@
-# 🔐 Quantum Cryptography — Theory to Practice
+<img width="1280" height="365" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/808e31bd-775e-416d-9787-829aa00ed697" />
+<img width="1280" height="200" alt="banner2" src="https://github.com/user-attachments/assets/9feecdd9-fd18-47c9-bae1-86ba74a4ef9c" />
+
+# 🔐 Quantum Cryptography 
+
+
+
 
 ![Quantum](https://img.shields.io/badge/Quantum-Cryptography-blueviolet)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
