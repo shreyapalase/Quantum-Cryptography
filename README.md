@@ -21,12 +21,6 @@ This project bridges **quantum information theory** and **practical cryptographi
 - [Security Metrics Dashboard](#security-metrics-dashboard)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Future Enhancements](#future-enhancements)
-- [References](#references)
-- [Contributing](#contributing)
-- [Support](#support)
-- [Author](#author)
 
 ---
 
@@ -129,7 +123,7 @@ All implementations are designed to be **educational, modular, and extensible**.
 
 ## 📊 Security Metrics Dashboard
 
-### 1️15.Security Matrices Dashboard
+### 15.Security Matrices Dashboard
 - QBER visualization
 - Mutual information (Alice–Bob / Alice–Eve)
 - Bell violation metrics
@@ -255,19 +249,19 @@ quantum-cryptography/
 
 ---
 
-👤 Author & Contact
+##  Author & Contact
 
-Author: Shreya Palase(codeQubit)
+**Author** : Shreya Palase(codeQubit)
 
-Field: Quantum Cryptography |Quantum Information Security
+**Field** : Quantum Cryptography |Quantum Information Security
 
-Affiliation: Independent Research / Study
+**Affiliation**: Independent Research / Study
 
-🔗 GitHub: https://github.com/shreyapalase
+🔗 **GitHub** : https://github.com/shreyapalase
 
 ---
 
-🔐 Usage & Security Notice
+## 🔐 Usage & Security Notice
 
 ⚠️ Important Security Statement
 
@@ -287,7 +281,7 @@ Any misuse of the concepts, code, or simulations is solely the responsibility of
 
 ---
 
-⭐ Support & Acknowledgment
+## ⭐ Support & Acknowledgment
 
 If you find this work valuable:
 
@@ -296,6 +290,7 @@ If you find this work valuable:
 👤 Follow for future quantum security projects
 
 📢 Share with students and researchers in quantum cryptography
+
 
 “Quantum mechanics doesn’t just encrypt data — it exposes the act of spying itself.”
 
