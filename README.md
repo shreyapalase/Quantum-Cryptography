@@ -38,96 +38,35 @@ All implementations are designed to be **educational, modular, and extensible**.
 
 ---
 
-## 📚 Core Concepts Covered
+### `📚 Core Concepts Covered`
 
-### 1️.Qubit and Measurement
-- Computational and Hadamard bases
-- Measurement collapse behavior
-- Basis mismatch effects
+ 1. Qubit and Measurement
+ 2️. Superposition and Shannon Entropy
+ 3. Quantum State as a Cryptographic Symbol
+ 4. No-Cloning Theorem (Simulation Proof)
 
-### 2️.Superposition and Shannon Entropy
-- Quantum uncertainty modeling
-- Entropy comparison: classical vs quantum
-- Information leakage analysis
+### `🔁 Protocols & Simulations`
+5. BB84 Protocol (Clean Channel)
+6. BB84 with Intercept-Resend Attack
+7. BB84 Under Noise
 
-### 3.Quantum State as a Cryptographic Symbol
-- Mapping qubit states to cryptographic alphabets
-- State preparation and decoding
+### `🔗 Entanglement-Based Cryptography`
+8. Entanglement for Cryptography
+9. E91-Style Entangled Key Distribution
+10. Bell Inequality & Eavesdropper Detection
 
-### 4.No-Cloning Theorem (Simulation Proof)
-- Practical demonstration of impossibility
-- Attack failure analysis using cloning attempts
+### `🛡️ Advanced Cryptographic Mechanisms`
+11. Quantum Authentication Encoding
+12. Multi-Party Quantum Key Agreement
+13. Adaptive Basis Selection
 
----
+### `🕵️ Security & Attack Models`
 
-## 🔁 Protocols & Simulations
+14. Side-Channel Simulation
 
-### 5.BB84 Protocol (Clean Channel)
-- End-to-end key generation
-- Basis reconciliation
-- Key sifting and final key extraction
+### `📊 Security Metrics Dashboard`
 
-### 6️6.BB84 with Intercept-Resend Attack
-- Eve’s intervention modeling
-- Error rate increase detection
-- Key discard thresholds
-
-### 7️7.BB84 Under Noise
-- Channel noise modeling
-- Quantum Bit Error Rate (QBER) analysis
-- Secure key rate degradation
-
----
-
-## 🔗 Entanglement-Based Cryptography
-
-### 8.Entanglement for Cryptography
-- EPR pair generation
-- Correlated measurement outcomes
-
-### 9.E91-Style Entangled Key Distribution
-- Entanglement-based QKD
-- Device independence assumptions
-
-###  10.Bell Inequality & Eavesdropper Detection
-- CHSH inequality computation
-- Eve detection via Bell violation
-- Classical vs quantum correlation comparison
-
----
-
-## 🛡️ Advanced Cryptographic Mechanisms
-
-### 1️11. Quantum Authentication Encoding
-- Quantum message authentication
-- Detection of tampering attempts
-
-### 1️12. Multi-Party Quantum Key Agreement
-- Collaborative key generation
-- Fairness and consensus properties
-
-### 1️13. Adaptive Basis Selection
-- Dynamic basis optimization
-- Attack-aware basis adaptation
-
----
-
-## 🕵️ Security & Attack Models
-
-### 1️14. Side-Channel Simulation
-- Detector efficiency mismatch
-- Timing and measurement leakage
-- Practical implementation weaknesses
-
----
-
-## 📊 Security Metrics Dashboard
-
-### 15.Security Matrices Dashboard
-- QBER visualization
-- Mutual information (Alice–Bob / Alice–Eve)
-- Bell violation metrics
-- Key rate vs noise graphs
+15. Security Matrices Dashboard
 
 > 📈 Designed for **research insight and teaching demonstrations**
 
@@ -299,11 +238,11 @@ Contributions are highly welcome! You can contribute by:
 - Improving documentation
 - Adding diagrams or visualizations
   
-Please see CONTRIBUTION.md for detailed guidelines.
+Please see **CONTRIBUTION.md** for detailed guidelines.
 
 ---
 
-##⭐ Support & Help
+## ⭐ Support & Help
 
 If you need help:
 - GitHub Issues → Report bugs or ask questions
@@ -316,7 +255,7 @@ If this repository helps you:
 - Collaborate and submit pull requests
 - Your support helps grow the repository and the quantum learning community!
 
-  See SUPPORT.md for complete instructions.
+  See **SUPPORT.md** for complete instructions.
 
 ---
 
