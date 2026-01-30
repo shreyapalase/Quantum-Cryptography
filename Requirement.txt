@@ -1,0 +1,50 @@
+
+# Core quantum computing framework
+qiskit>=2.2.3
+
+# Numerical computation
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.6
+
+# Jupyter Notebook environment
+jupyter>=1.0
+notebook>=6.5
+ipykernel>=6.20
+
+# ⚠️ Important Notes (Very Important)
+
+Aersimulator is not installed directly
+→ it is included inside qiskit-aer
+
+python itself is NOT listed in requirements.txt
+→ instead, document it in README:
+
+## Prerequisites
+- Python >= 3.14
+
+
+# 🔍 Optional (Recommended for Quantum Visualization)
+
+If you want Bloch spheres, circuit drawings, and state plots:
+
+pylatexenc>=2.10
+
+(Add only if needed.)
+ 
+
+#🧪 Tested Use Case
+
+This setup fully supports:
+
+- BB84 & E91 protocols
+
+- AerSimulator noise models
+
+- Measurement & basis switching
+
+- Bell inequality experiments
+
+- Jupyter-based teaching notebooks
+
