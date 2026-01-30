@@ -62,7 +62,7 @@ All implementations are designed to be **educational, modular, and extensible**.
 
 ## 🔁 Protocols & Simulations
 
-### 5️5.BB84 Protocol (Clean Channel)
+### 5.BB84 Protocol (Clean Channel)
 - End-to-end key generation
 - Basis reconciliation
 - Key sifting and final key extraction
@@ -81,11 +81,11 @@ All implementations are designed to be **educational, modular, and extensible**.
 
 ## 🔗 Entanglement-Based Cryptography
 
-### 8️8.Entanglement for Cryptography
+### 8.Entanglement for Cryptography
 - EPR pair generation
 - Correlated measurement outcomes
 
-### 9️9.E91-Style Entangled Key Distribution
+### 9.E91-Style Entangled Key Distribution
 - Entanglement-based QKD
 - Device independence assumptions
 
@@ -139,9 +139,10 @@ All implementations are designed to be **educational, modular, and extensible**.
 - NumPy 
 - Matplotlib 
 - Jupyter Notebook
-- Custom Quantum State Simulator (no black-box SDKs)
+- Custom Quantum State Simulator
 - Qiskit 2.2.3
 
+refer**Requirement.txt** file for more information
 ---
 
 ## 🗂️ Project Structure
@@ -259,6 +260,13 @@ quantum-cryptography/
 
 🔗 **GitHub** : https://github.com/shreyapalase
 
+You are welcome to reach out for:
+
+- Questions about this repository  
+- Collaboration opportunities  
+- Suggestions for new content  
+- Feedback and contributions  
+
 ---
 
 ## 🔐 Usage & Security Notice
@@ -279,9 +287,50 @@ Any misuse of the concepts, code, or simulations is solely the responsibility of
 
 📩 For collaboration, reuse, or publication-related requests, contact the author directly.
 
+
 ---
 
-## ⭐ Support & Acknowledgment
+## Contributing
+Contributions are highly welcome! You can contribute by:
+- Adding new quantum algorithms or examples
+- Improving code structure or style
+- Writing Jupyter notebooks for tutorials
+- Fixing bugs or typos
+- Improving documentation
+- Adding diagrams or visualizations
+  
+Please see CONTRIBUTION.md for detailed guidelines.
+
+---
+
+##⭐ Support & Help
+
+If you need help:
+- GitHub Issues → Report bugs or ask questions
+- GitHub Discussions → Ask conceptual or practical questions
+- Contact Maintainer → via GitHub profile
+  
+If this repository helps you:
+- Give it a Star ⭐ on GitHub
+- Share it with friends, classmates, or communities
+- Collaborate and submit pull requests
+- Your support helps grow the repository and the quantum learning community!
+
+  See SUPPORT.md for complete instructions.
+
+---
+
+## 📝 License
+This project is released under the MIT License, allowing free use, modification, and distribution with proper attribution.
+
+---
+
+
+## ✨ Thank You!
+Your interest, contributions, and support help make quantum learning accessible to everyone.
+Together, we can learn, code, and explore the world of quantum computing— one qubit at a time!
+
+Thank you for visiting **Quantum Cryptography**!  
 
 If you find this work valuable:
 
@@ -291,6 +340,9 @@ If you find this work valuable:
 
 📢 Share with students and researchers in quantum cryptography
 
+“*Quantum mechanics doesn’t just encrypt data — it exposes the act of spying itself.*”
 
-“Quantum mechanics doesn’t just encrypt data — it exposes the act of spying itself.”
+---
+
+### — **SHREYA PALASE**(codeQubit)
 
