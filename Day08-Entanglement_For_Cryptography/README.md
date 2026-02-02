@@ -9,12 +9,11 @@ This folder contains learning materials and practical implementations focusing o
 ---
 
 In this folder, we will learn:
-- How the **BB84 QKD protocol works**
-- How to simulate BB84 using **AerSimulator**
-- Hoe to **inject depolarizing noise** into quantum channel.
-- How measure the **Quantum Bit Error Rate(QBER)** and **Key Survival Rate**
-- How noise affect the security anf reliability of QKD
-- Hoe to visualize **Noise affects the security anf key survival rate** using plots.
+- Create a **Bell state**(Maximally entangled state)
+- Measure corelation between entangled qubits
+- Observe perfect correalation
+- Visualize entanglement using a **joint probability matrix**
+- understand how entanglement supports secure cryptographic protocols
   
 ---
 
