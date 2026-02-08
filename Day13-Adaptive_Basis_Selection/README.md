@@ -1,10 +1,10 @@
 ### Day13
 # Adaptive Basis Selection
 
-This folder contains self-generated study material designed to build a **clear and practical understanding Adaptive Basis Selection** 
-in Quantum Cryptography.
+This folder contains self-generated study material designed to build a **clear and practical understanding Adaptive Basis Selection** in Quantum Cryptography.
 
 This folder contains learning materials and practical implementations focusing on fundamental concepts of Adaptive Basis Selection
+
 ---
 
 In this folder, we will learn:
