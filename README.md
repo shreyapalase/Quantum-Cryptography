@@ -96,93 +96,93 @@ refer**Requirement.txt** file for more information
 quantum-cryptography/
 │
 ├── Day01_Qubit_and_Measurement/
-│   ├── qubit_measurement.ipynb
+│   ├── day01_qubit_And_Measurement.ipynb
 │   ├── README.md
 │   └── day01_notes
 │   
 │       
 │
 ├── Day02_Superposition_and_Entropy/
-│   ├── superposition_entropy.ipynb
+│   ├── day02_Superposition_And_Shannon_entropy.ipynb
 │   ├── README.md
 │   └── day02_notes.md
 │      
 │      
 │
 ├── Day03_Quantum_State_as_Crypto_Symbol/
-│   ├── quantum_symbol.ipynb
+│   ├── day03_Qubit_As_Cryptographic_Symbol.ipynb
 │   ├── README.md
 │   └── day03_notes.md
 │       
 │
 ├── Day04_No_Cloning_Theorem/
-│   ├── no_cloning_simulation.ipynb
+│   ├── day04_No_Cloning_Theorem_(Simulation_Proof).ipynb
 │   ├── README.md
 │   └── day04_notes.md
 │      
 │
 ├── Day05_BB84_Clean_Channel/
-│   ├── bb84_clean.ipynb
+│   ├── day05_BB84_Protocol_Clean_Channel.ipynb
 │   ├── README.md
 │   └── day05_notes.md
 │
 │
 ├── Day06_BB84_Intercept_Resend_Attack/
-│   ├── bb84_attack.ipynb
+│   ├── day06_BB84_With_Intercept_Resend_Attack.ipynb
 │   ├── README.md
 │   └── day06_notes.md
 │       
 │
 ├── Day07_BB84_Under_Noise/
-│   ├── bb84_noise.ipynb
+│   ├── day07_BB84_Under_noise.ipynb
 │   ├── README.md
 │   └── day07_notes.md
 │      
 │
 ├── Day08_Entanglement_for_Cryptography/
-│   ├── entanglement_crypto.ipynb
+│   ├── day08_Entanglement_For_Cryptography.ipynb
 │   ├── README.md
 │   └── day08_notes.md
 │      
 │
 ├── Day09_E91_Entangled_QKD/
-│   ├── e91_protocol.ipynb
+│   ├── day09_E91_Style_Entangled_Key_Distribution.ipynb
 │   ├── README.md
 │   └── day09_notes.md
 │      
 │
 ├── Day10_Bell_Inequality_Eavesdropper_Detection/
-│   ├── bell_inequality.ipynb
+│   ├── day10_Bell_Inequality_And_EvesDropper_Detection.ipynb
 │   ├── README.md
 │   └── day10_notes.md
 │      
 │
 ├── Day11_Quantum_Authentication/
-│   ├── quantum_authentication.ipynb
+│   ├── day11_Quantum_Authentication_Encoding.ipynb
 │   ├── README.md
 │   └── day11_notes.md
 │       
 │
 ├── Day12_Multi_Party_QKA/
-│   ├── multi_party_qka.ipynb
+│   ├──day12 _Multi_Party_Quantum_key_Agreement.ipynb
 │   ├── README.md
 │   └── day12_notes.md
 │       
 │
 ├── Day13_Adaptive_Basis_Selection/
-│   ├── adaptive_basis.ipynb
+│   ├── day13_Adaptive_Basis_Selection.ipynb
 │   ├── README.md
 │   └── day13_notes.md
 │      
 │
 ├── Day14_Side_Channel_Simulation/
-│   ├── side_channel_attack.ipynb
+│   ├── day14_Side_Channel_Simulation.ipynb
 │   ├── README.md
 │   └── day14_notes.md
 │      
 │
 ├── Day15_Security_Metrics_Dashboard/
-│   ├── security_dashboard.ipynb
+│   ├── day15_Security_Matrics_Dashboard.ipynb
 │   ├── README.md
 │   └── day15_notes.md
 │      
